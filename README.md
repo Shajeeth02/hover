@@ -35,8 +35,8 @@ hover-animation/
 
 1. Clone the Repository
 bash
-git clone https://github.com/your-username/hover-animation.git
-cd hover-animation
+git clone https://github.com/your-username/hover.git
+cd hover
 
 2. Open in Browser
 You can simply open the index.html file in your browser:
